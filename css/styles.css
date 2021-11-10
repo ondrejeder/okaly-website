@@ -10,7 +10,7 @@ body {
 
 .header {
   text-align: center;
-  background-color: powderblue;
+  background-color: lightblue;
   margin: 1% 4%;
 }
 
@@ -23,8 +23,21 @@ body {
 }
 
 .navbar {
-  background-color: teal;
+  background-color: lightblue;
   padding: 5px 50px;
+}
+
+.navbar-brand {
+  font-size: 2rem;
+}
+
+.nav-item {
+  margin: 0 15px;
+}
+
+.nav-link {
+  font-weight: lighter;
+  font-size: 1rem;
 }
 
 .row {
@@ -33,4 +46,6 @@ body {
 }
 
 #title {
+  font-weight: lighter;
+  font-size: 2rem;;
 }
