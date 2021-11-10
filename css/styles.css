@@ -1,0 +1,36 @@
+body {
+  background-color: ghostwhite;
+  font-family: sans-serif;
+}
+
+.gyno-img {
+  width: 80%;
+  border-radius: 5%;
+}
+
+.header {
+  text-align: center;
+  background-color: powderblue;
+  margin: 1% 4%;
+}
+
+.linux {
+  width: 66%;
+}
+
+.my-col {
+  padding: 10px;
+}
+
+.navbar {
+  background-color: teal;
+  padding: 5px 50px;
+}
+
+.row {
+  text-align: center;
+  margin: 20px;
+}
+
+#title {
+}
